@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09c94af5-1712-4542-b9eb-15d1e30f8e22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/dvc-styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/projects/flames-calculator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/xxx.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/devvitocode-styles.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608936679264</updated>
-      <workItem from="1608936681647" duration="4090000" />
+      <workItem from="1608936681647" duration="4872000" />
     </task>
     <servers />
   </component>
